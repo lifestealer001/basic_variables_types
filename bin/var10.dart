@@ -8,6 +8,9 @@ print your last name, then print your first name at the bottom.
 
 */
 
-void main() {
+void main() {String a = 'abror';
+String b = 'murtazaqulov';
+print(b);
+print(a);
   // write your code here
 }

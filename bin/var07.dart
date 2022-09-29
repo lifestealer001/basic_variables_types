@@ -7,6 +7,10 @@ Print two of them.
 
 */
 
-void main() {
+void main() {double y = 3.3;
+double x = 3.2;
+print(y);
+print(x);
+
   // write your code here
 }

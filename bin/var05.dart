@@ -7,6 +7,9 @@ Print two of them.
 
 */
 
-void main() {
+void main() {int y = 5;
+int x = 6;
+print(y);
+print(x);
   // write your code here
 }
